@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as r,Q as o}from"./chunks/framework.c3fbb961.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"book/GLOSSARY.md","filePath":"book/GLOSSARY.md"}'),a={name:"book/GLOSSARY.md"},d=o("",2),n=[d];function s(i,_,c,g,h,m){return e(),r("div",null,n)}const S=t(a,[["render",s]]);export{p as __pageData,S as default};

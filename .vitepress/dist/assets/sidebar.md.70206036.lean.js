@@ -1,0 +1,1 @@
+import{_ as a,o as l,c as o,Q as e}from"./chunks/framework.c3fbb961.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sidebar.md","filePath":"sidebar.md"}'),i={name:"sidebar.md"},r=e("",83),h=[r];function t(n,m,b,s,k,f){return l(),o("div",null,h)}const c=a(i,[["render",t]]);export{p as __pageData,c as default};
