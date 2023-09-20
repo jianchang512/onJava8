@@ -46,8 +46,7 @@ ignoreDeadLinks: true,
   {text:"编辑器",link:"/book/02-Installing-Java-and-the-Book-Examples.md#编辑器"},
   {text:"Shell",link:"/book/02-Installing-Java-and-the-Book-Examples.md#Shell"},
   {text:"Java安装",link:"/book/02-Installing-Java-and-the-Book-Examples.md#Java安装"},
-  {text:"校验安装",link:"/book/02-Installing-Java-and-the-Book-Examples.md#校验安装"}]},
-  {text:"安装和运行代码示例",link:"/book/02-Installing-Java-and-the-Book-Examples.md#安装和运行代码示例"},
+  {text:"校验安装",link:"/book/02-Installing-Java-and-the-Book-Examples.md#校验安装"},  {text:"安装和运行代码示例",link:"/book/02-Installing-Java-and-the-Book-Examples.md#安装和运行代码示例"}]},
 {text:"第三章 万物皆对象",link:"/book/03-Objects-Everywhere.md",items:[
   {text:"对象操纵",link:"/book/03-Objects-Everywhere.md#对象操纵"},
   {text:"对象创建",link:"/book/03-Objects-Everywhere.md#对象创建"},
@@ -337,8 +336,8 @@ ignoreDeadLinks: true,
   {text:"动手实践",link:"/book/Appendix-Supplements.md#动手实践"}]},
 {text:"附录:编程指南",link:"/book/Appendix-Programming-Guidelines.md",items:[
   {text:"设计",link:"/book/Appendix-Programming-Guidelines.md#设计"},
-  {text:"实现",link:"/book/Appendix-Programming-Guidelines.md#实现"}]},
-{text:"附录:文档注释",link:"/book/Appendix-Javadoc.md"},
+  {text:"实现",link:"/book/Appendix-Programming-Guidelines.md#实现"},
+{text:"附录:文档注释",link:"/book/Appendix-Javadoc.md"}]},
 {text:"附录:对象传递和返回",link:"/book/Appendix-Passing-and-Returning-Objects.md",items:[
   {text:"传递引用",link:"/book/Appendix-Passing-and-Returning-Objects.md#传递引用"},
   {text:"本地拷贝",link:"/book/Appendix-Passing-and-Returning-Objects.md#本地拷贝"},
@@ -407,7 +406,9 @@ ignoreDeadLinks: true,
   {text:"如何提升打字",link:"/book/Appendix-Benefits-and-Costs-of-Static-Type-Checking.md#如何提升打字"},
   {text:"生产力的成本",link:"/book/Appendix-Benefits-and-Costs-of-Static-Type-Checking.md#生产力的成本"},
   {text:"静态和动态",link:"/book/Appendix-Benefits-and-Costs-of-Static-Type-Checking.md#静态和动态"}]},
-{text:"附录:C++和Java的优良传统",link:"/book/Appendix-The-Positive-Legacy-of-C-plus-plus-and-Java.md"},
+  
+{text:"附录:C++和Java的优良传统",link:"/book/Appendix-The-Positive-Legacy-of-C-plus-plus-and-Java.md",items:[]},
+
 {text:"附录:成为一名程序员",link:"/book/Appendix-Becoming-a-Programmer.md",items:[
   {text:"如何开始",link:"/book/Appendix-Becoming-a-Programmer.md#如何开始"},
   {text:"码农生涯",link:"/book/Appendix-Becoming-a-Programmer.md#码农生涯"},
@@ -415,7 +416,7 @@ ignoreDeadLinks: true,
   {text:"重在动手",link:"/book/Appendix-Becoming-a-Programmer.md#重在动手"},
   {text:"像打字般编程",link:"/book/Appendix-Becoming-a-Programmer.md#像打字般编程"},
   {text:"做你喜欢的事",link:"/book/Appendix-Becoming-a-Programmer.md#做你喜欢的事"}]},
-{text:"词汇表",link:"/book/GLOSSARY.md"}
+{text:"词汇表",link:"/book/GLOSSARY.md",items:[]}
 
     ],
 
