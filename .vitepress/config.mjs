@@ -6,6 +6,9 @@ ignoreDeadLinks: true,
   title: "On Java8",
   description: "java 编程思想第5版，on java 8",
   themeConfig: {
+	search: {
+      provider: 'local'
+	},
     logo:"/logo.jpg",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
